@@ -12,13 +12,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfApplication1
+namespace Cadastramento
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
+        private string WpfApplication1;
         public MainWindow()
         {
             InitializeComponent();
@@ -43,5 +44,22 @@ namespace WpfApplication1
         {
 
         }
+
+        private void MenuItem_Click_3(object sender, RoutedEventArgs e)
+        {
+            
+            
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            
+
+
+        }
+
+
+
+        
     }
 }

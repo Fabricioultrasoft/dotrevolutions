@@ -1,0 +1,13 @@
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\bin\Debug\Cadastramento.exe
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\bin\Debug\Cadastramento.pdb
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\obj\x86\Debug\MainWindow.baml
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\obj\x86\Debug\MainWindow.g.cs
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\obj\x86\Debug\App.g.cs
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\obj\x86\Debug\Cadastramento_MarkupCompile.cache
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\obj\x86\Debug\Cadastramento.g.resources
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\obj\x86\Debug\Cadastramento.exe
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\obj\x86\Debug\Cadastramento.pdb
+D:\Documents and Settings\Lyra\Desktop\DotRevolutions\Cadastramento\Cadastramento\obj\x86\Debug\Cadastramento.Properties.Resources.resources

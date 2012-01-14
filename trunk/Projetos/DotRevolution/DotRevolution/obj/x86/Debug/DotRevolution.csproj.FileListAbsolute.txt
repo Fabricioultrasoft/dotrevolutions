@@ -1,0 +1,22 @@
+C:\Users\Betinho\documents\visual studio 2010\Projects\DotRevolution\DotRevolution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Betinho\documents\visual studio 2010\Projects\DotRevolution\DotRevolution\obj\x86\Debug\MainWindow.baml
+C:\Users\Betinho\documents\visual studio 2010\Projects\DotRevolution\DotRevolution\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Betinho\documents\visual studio 2010\Projects\DotRevolution\DotRevolution\obj\x86\Debug\App.g.cs
+C:\Users\Betinho\documents\visual studio 2010\Projects\DotRevolution\DotRevolution\obj\x86\Debug\DotRevolution_MarkupCompile.cache
+C:\Users\Betinho\documents\visual studio 2010\Projects\DotRevolution\DotRevolution\obj\x86\Debug\DotRevolution.g.resources
+C:\Users\Betinho\documents\visual studio 2010\Projects\DotRevolution\DotRevolution\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Betinho\documents\visual studio 2010\Projects\DotRevolution\DotRevolution\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Betinho\documents\visual studio 2010\Projects\DotRevolution\DotRevolution\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Betinho\documents\visual studio 2010\Projects\DotRevolution\DotRevolution\obj\x86\Debug\JanelaWPF.baml
+C:\Users\Betinho\documents\visual studio 2010\Projects\DotRevolution\DotRevolution\obj\x86\Debug\JanelaWPF.g.cs
+C:\Users\Betinho\Desktop\FORSOFT\Projetos\DotRevolution\DotRevolution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Betinho\Desktop\FORSOFT\Projetos\DotRevolution\DotRevolution\obj\x86\Debug\JanelaWPF.baml
+C:\Users\Betinho\Desktop\FORSOFT\Projetos\DotRevolution\DotRevolution\obj\x86\Debug\MainWindow.baml
+C:\Users\Betinho\Desktop\FORSOFT\Projetos\DotRevolution\DotRevolution\obj\x86\Debug\JanelaWPF.g.cs
+C:\Users\Betinho\Desktop\FORSOFT\Projetos\DotRevolution\DotRevolution\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Betinho\Desktop\FORSOFT\Projetos\DotRevolution\DotRevolution\obj\x86\Debug\App.g.cs
+C:\Users\Betinho\Desktop\FORSOFT\Projetos\DotRevolution\DotRevolution\obj\x86\Debug\DotRevolution_MarkupCompile.cache
+C:\Users\Betinho\Desktop\FORSOFT\Projetos\DotRevolution\DotRevolution\obj\x86\Debug\DotRevolution.g.resources
+C:\Users\Betinho\Desktop\FORSOFT\Projetos\DotRevolution\DotRevolution\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Betinho\Desktop\FORSOFT\Projetos\DotRevolution\DotRevolution\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Betinho\Desktop\FORSOFT\Projetos\DotRevolution\DotRevolution\obj\x86\Debug\GenerateResource.write.1.tlog

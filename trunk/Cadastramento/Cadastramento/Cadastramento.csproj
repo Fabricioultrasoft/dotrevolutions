@@ -8,7 +8,7 @@
     <ProjectGuid>{CEAE534E-F865-4668-931E-C7FF3F19FDA3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WpfApplication1</RootNamespace>
+    <RootNamespace>Cadastramento</RootNamespace>
     <AssemblyName>Cadastramento</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
