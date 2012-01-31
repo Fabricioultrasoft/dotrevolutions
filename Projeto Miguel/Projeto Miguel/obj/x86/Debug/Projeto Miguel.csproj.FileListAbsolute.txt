@@ -1,0 +1,10 @@
+C:\Users\Betinho\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Betinho\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Betinho\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Betinho\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Betinho\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\Lyra\Desktop\Projeto Miguel\Projeto Miguel\bin\Debug\Projeto Miguel.exe
+C:\Documents and Settings\Lyra\Desktop\Projeto Miguel\Projeto Miguel\bin\Debug\Projeto Miguel.pdb
+C:\Documents and Settings\Lyra\Desktop\Projeto Miguel\Projeto Miguel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lyra\Desktop\Projeto Miguel\Projeto Miguel\obj\x86\Debug\Projeto Miguel.exe
+C:\Documents and Settings\Lyra\Desktop\Projeto Miguel\Projeto Miguel\obj\x86\Debug\Projeto Miguel.pdb
