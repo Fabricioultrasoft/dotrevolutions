@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\projeto_agenda\projeto_agenda\bin\Debug\projeto_agenda.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\projeto_agenda\projeto_agenda\bin\Debug\projeto_agenda.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\projeto_agenda\projeto_agenda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\projeto_agenda\projeto_agenda\obj\x86\Debug\projeto_agenda.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\projeto_agenda\projeto_agenda\obj\x86\Debug\projeto_agenda.pdb
