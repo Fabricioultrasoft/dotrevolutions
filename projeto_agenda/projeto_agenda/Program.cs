@@ -114,14 +114,7 @@ namespace ConsoleApplication1
                             resp_excluir.Remove(1);
                                
                             break;
-            case "5":
-                            string[] cidades = {"Goiânia", "São Paulo", 
-     "Rio de Janeiro", "Curitiba"};
-                string item = Array.Find(cidades, pesquisar);
-  Console.WriteLine(item != null ? "Item encontrado" : 
-     "Item não encontrado.");
-
-                            break;
+        
                     //}
                 {
                     //_agendaTelefonicaList.RemoveAt(i);
