@@ -1,5 +1,0 @@
-d:\meus documentos\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
-d:\meus documentos\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
-d:\meus documentos\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
-d:\meus documentos\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
-d:\meus documentos\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
