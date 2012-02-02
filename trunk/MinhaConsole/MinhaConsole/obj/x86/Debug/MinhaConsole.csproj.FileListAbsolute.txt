@@ -1,0 +1,10 @@
+C:\Users\JulianoAece\Documents\Projects\MinhaConsole\MinhaConsole\bin\Debug\MinhaConsole.exe
+C:\Users\JulianoAece\Documents\Projects\MinhaConsole\MinhaConsole\bin\Debug\MinhaConsole.pdb
+C:\Users\JulianoAece\Documents\Projects\MinhaConsole\MinhaConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JulianoAece\Documents\Projects\MinhaConsole\MinhaConsole\obj\x86\Debug\MinhaConsole.exe
+C:\Users\JulianoAece\Documents\Projects\MinhaConsole\MinhaConsole\obj\x86\Debug\MinhaConsole.pdb
+C:\Users\INV\Downloads\MinhaConsole\MinhaConsole\obj\x86\Debug\MinhaConsole.exe
+C:\Users\INV\Downloads\MinhaConsole\MinhaConsole\obj\x86\Debug\MinhaConsole.pdb
+C:\Users\INV\Downloads\MinhaConsole\MinhaConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\INV\Downloads\MinhaConsole\MinhaConsole\bin\Debug\MinhaConsole.exe
+C:\Users\INV\Downloads\MinhaConsole\MinhaConsole\bin\Debug\MinhaConsole.pdb

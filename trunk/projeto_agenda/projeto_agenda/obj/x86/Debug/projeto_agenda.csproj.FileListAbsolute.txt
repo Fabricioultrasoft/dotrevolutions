@@ -6,3 +6,6 @@ C:\Users\admin\Documents\Visual Studio 2010\Projects\projeto_agenda\projeto_agen
 C:\Documents and Settings\Windowns XP\Desktop\dotrevolutions\projeto_agenda\projeto_agenda\obj\x86\Debug\projeto_agenda.exe
 C:\Documents and Settings\Windowns XP\Desktop\dotrevolutions\projeto_agenda\projeto_agenda\obj\x86\Debug\projeto_agenda.pdb
 C:\Documents and Settings\Windowns XP\Desktop\dotrevolutions\projeto_agenda\projeto_agenda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\INV\Desktop\dotrevolutions\projeto_agenda\projeto_agenda\obj\x86\Debug\projeto_agenda.exe
+C:\Users\INV\Desktop\dotrevolutions\projeto_agenda\projeto_agenda\obj\x86\Debug\projeto_agenda.pdb
+C:\Users\INV\Desktop\dotrevolutions\projeto_agenda\projeto_agenda\obj\x86\Debug\ResolveAssemblyReference.cache
