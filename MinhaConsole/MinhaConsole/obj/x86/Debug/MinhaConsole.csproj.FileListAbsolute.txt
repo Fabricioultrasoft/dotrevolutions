@@ -8,3 +8,8 @@ C:\Users\INV\Downloads\MinhaConsole\MinhaConsole\obj\x86\Debug\MinhaConsole.pdb
 C:\Users\INV\Downloads\MinhaConsole\MinhaConsole\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\INV\Downloads\MinhaConsole\MinhaConsole\bin\Debug\MinhaConsole.exe
 C:\Users\INV\Downloads\MinhaConsole\MinhaConsole\bin\Debug\MinhaConsole.pdb
+C:\Users\INV\Desktop\dotrevolutions\MinhaConsole\MinhaConsole\obj\x86\Debug\MinhaConsole.exe
+C:\Users\INV\Desktop\dotrevolutions\MinhaConsole\MinhaConsole\obj\x86\Debug\MinhaConsole.pdb
+C:\Users\INV\Desktop\dotrevolutions\MinhaConsole\MinhaConsole\bin\Debug\MinhaConsole.exe
+C:\Users\INV\Desktop\dotrevolutions\MinhaConsole\MinhaConsole\bin\Debug\MinhaConsole.pdb
+C:\Users\INV\Desktop\dotrevolutions\MinhaConsole\MinhaConsole\obj\x86\Debug\ResolveAssemblyReference.cache
