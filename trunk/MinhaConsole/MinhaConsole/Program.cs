@@ -76,7 +76,7 @@ namespace MinhaConsole
             Console.WriteLine("\nNome do Cliente:");
             string nome = Console.ReadLine();
 
-            Console.WriteLine("E-mail do Cliente:");
+            Console.WriteLine("Telefone do Cliente:");
             string email = Console.ReadLine();
 
             Console.WriteLine("E-mail do Cliente:");
@@ -99,25 +99,21 @@ namespace MinhaConsole
                 {
                     using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\agenda.txt", true))
                     {
-                        file.WriteLine("Nome:" + nome);
-                        file.WriteLine("Telefone:" + telefone);
-                        file.WriteLine("Email:" + email);
+                        file.WriteLine("\nNome:  " + nome + "  Telefone:  " + telefone + "  Email:  " + email);
                         file.Close();
                     }
                 }
                 else
                 {
                     StreamWriter escrever = new StreamWriter(arquivo);
-                    escrever.WriteLine("Nome:" + nome);
-                    escrever.WriteLine("Telefone:" + telefone);
-                    escrever.WriteLine("Email:" + email);
+                    escrever.WriteLine("\nNome:  " + nome + "  Telefone:  " + telefone + "  Email:  " + email);
                     escrever.Close();
                 }
             }
 
 
 
-            Console.WriteLine(String.Format("\nO cliente {0}\n" + "Telefone: {1}\n" + "Email: {2}\n" + "\nfoi cadastrado com sucesso", nome, email, telefone));
+            Console.WriteLine(String.Format("\nO Cliente {0}\n" + "Telefone: {1}\n" + "Email: {2}\n" + "\nfoi cadastrado com sucesso", nome, email, telefone));
         }
         
 
@@ -129,14 +125,20 @@ namespace MinhaConsole
 
             if (File.Exists(arquivo))
             {
-                string[] lines = System.IO.File.ReadAllLines(@"C:\agenda.txt");
+                int counter = 0;
+                string line;
 
-                System.Console.WriteLine("Usuarios Cadastrados =:");
-                foreach (string line in lines)
+                Console.WriteLine("\nUsuários Cadastrados:");
+                System.IO.StreamReader file =
+                    new System.IO.StreamReader(@"c:\agenda.txt");
+                while ((line = file.ReadLine()) != null)
                 {
-                    Console.WriteLine("\t" + line);
+                    System.Console.WriteLine(line);
+                    counter++;
                 }
 
+                file.Close();
+                System.Console.ReadLine();
             }
             else
             {
